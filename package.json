@@ -9,7 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bancho.js": "^0.11.3",
-    "express": "^4.18.2"
+    "bancho.js": "^0.11.3"
   }
 }
