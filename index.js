@@ -1,7 +1,7 @@
 const Banchojs = require("bancho.js");
 
-const USERNAME = "Nxd_Bibou1494"
-const PASSWORD = "11916c5d"
+const USERNAME = "username"
+const PASSWORD = "IRC password"
 
 const client = new Banchojs.BanchoClient({
   username: USERNAME,
