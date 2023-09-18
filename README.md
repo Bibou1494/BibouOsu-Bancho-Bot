@@ -1,6 +1,4 @@
 ## Command
-!hello it's reply.
-
 !help see the command
 
 !support it's redirect u to my forum for more support
