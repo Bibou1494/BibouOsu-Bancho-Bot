@@ -3,9 +3,9 @@
 
 !help see the command
 
-!howareyou It's reply somthing
-
 !support it's redirect u to my forum for more support
+
+If you found another command keep it secret.
 ## Create your own
 Clone the repo.
 then you need node js. now do the following command.
