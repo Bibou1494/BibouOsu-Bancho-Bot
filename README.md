@@ -1,3 +1,7 @@
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Bibou1494&label=Website%20View&color=1&icon=2&pretty=false" />
+</a>
+
 ## Command
 !help : see the command
 
