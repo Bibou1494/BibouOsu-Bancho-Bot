@@ -25,10 +25,14 @@ const startOsuBot = async () => {
       const command = message.split(" ")[0].toLowerCase();
 
       switch (command) {
-        case prefix + "hello":
-          return await user.sendMessage(`Hello there ${user.ircUsername}`);
-		case prefix + "help":
-			return await user.sendMessage(`All command are in [https://github.com/Bibou1494/BibouOsu-Bancho-Bot GitHub]`)
+                case prefix + "help":
+          return await user.sendMessage(`All command are in [https://github.com/Bibou1494/BibouOsu-Bancho-Bot GitHub]`);
+        case prefix + "support":
+          return await user.sendMessage(`if you need more support, u can check my [http://bibounetwork.ddns.net/forum/liste-topics/?id=7 forum].`);
+        case prefix + "aboutu":
+          return await user.sendMessage(`About me : I'm a normal osu! player. I'm here just for fun so i don't care about PP or the score.`);
+        case prefix + "aboutbot":
+          return await user.sendMessage(`About the bot: Hey I'm a bot made by [https://osu.ppy.sh/users/Nxd_Bibou1494 Nxd_Bibou1494]. My creator wanted me to have a random map to download but he still doesn't know how to do that`);
       };
     });
 
