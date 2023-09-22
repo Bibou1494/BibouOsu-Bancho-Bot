@@ -1,6 +1,4 @@
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Bibou1494&label=Website%20View&color=1&icon=2&pretty=false" />
-</a>
+[![](https://visitcount.itsvg.in/api?id=Bibou1494&label=Views&color=7&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
 ## Command
 !help : see the command
