@@ -14,7 +14,7 @@ If you found another command keep it secret.
 Clone the repo.
 then you need node js. now do the following command.
 ```
-npm install bancho.js
+npm install
 ```
 and now do 
 ```
