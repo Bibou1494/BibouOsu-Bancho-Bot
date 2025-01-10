@@ -22,4 +22,4 @@ node .
 ```
 Now modify the index.js and put your IRC account in osu!(osu.ppy.sh/p/irc)(not support custom IRC) and now change the command and more.
 ## TODO
-Random map request.
+~~Random map request.~~
