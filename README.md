@@ -9,7 +9,8 @@
 
 !aboutbot : For more info about the bot
 
-If you found another command keep it secret.
+!random : Choose a random beatmap for you to try
+
 ## Create your own
 Clone the repo.
 then you need node js. now do the following command.
@@ -23,3 +24,4 @@ node .
 Now modify the index.js and put your IRC account in osu!(osu.ppy.sh/p/irc)(not support custom IRC) and now change the command and more.
 ## TODO
 ~~Random map request.~~
+Make a download-unavailable filter
