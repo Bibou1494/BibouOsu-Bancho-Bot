@@ -1,2 +1,6 @@
 # Github Pages Ignore 
 pages.html
+.env
+node_modules
+index.test.js
+index2.js
