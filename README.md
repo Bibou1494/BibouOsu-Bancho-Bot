@@ -23,6 +23,8 @@ USERNAME=YourUsername
 PASSWORD=YourOsuIRCPassword
 APIKEY=YourAPIKey
 ```
+For the API key, just create an APIv1 and for the URL just put "http://localhost".
+
 And to run the script do 
 ```bash
 node .
