@@ -1,4 +1,6 @@
 <!-- [![](https://visitcount.itsvg.in/api?id=Bibou1494&label=Views&color=7&icon=2&pretty=false)](https://visitcount.itsvg.in) -->
+Currently under maintenance, please check https://bibounetwork.betteruptime.com to see why.
+
 ## Command
 !help : see the command
 
@@ -38,3 +40,5 @@ npm start
 ~~Random map request.~~
 
 Make a download-unavailable filter
+
+Change the host
